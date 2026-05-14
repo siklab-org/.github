@@ -2,7 +2,7 @@
 <img width="2400" height="1080" alt="Siklab" src="https://github.com/user-attachments/assets/aab90315-4e01-49d8-bfe2-bdb7bb786dce" />
 </p>
 
-<h1 align="center">🔥 Siklab Pilipinas</h1>
+<h1 align="center">Siklab</h1>
 
 <p align="center">
   <em>Internationally recognized development consulting organization rooted in the Philippines, igniting change across Asia.</em>
