@@ -159,7 +159,6 @@ This GitHub organization houses the **open-source tools, platforms, and project 
 - 📱 Web and mobile platforms for fellowship programs
 - 📊 Data dashboards for impact tracking
 - 🔧 Tools and templates for program management
-- 🤖 AI/ML initiatives developed through the AI for Asia program
 - 📖 Open educational resources and curriculum frameworks
 
 ---
