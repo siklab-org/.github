@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://siklab.org.ph/wp-content/uploads/slider/cache/f725d9b3494c59871dcc80f32be6fa5e/002A5927-scaled.jpg" alt="Leaders of Tomorrow" width="31%" />
-  <img src="https://siklab.org.ph/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-06-at-12.29.29-PM-1-1024x682.png" alt="Siklab Team" width="31%" />
+  <img src="https://siklab.org.ph/wp-content/uploads/2026/01/482017049_926978509647910_6309235777947601337_n-1.webp" alt="Siklab Team" width="31%" />
   <img src="https://siklab.org.ph/wp-content/uploads/2026/01/image-51-1024x681.png" alt="Siklab Event" width="31%" />
 </p>
 
